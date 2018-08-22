@@ -2,6 +2,11 @@
 
 These assignments are group projects which focuses on how to get most efficient algorithms and with time and space complexity along with the room of discussion , conclusion and improvement.
 
+## Language
+```
+C++
+```
+
 ## Assignment-1
 
 Partition an unsorted list of integers into adjacent sorted subsets. Let n be the size of the original unsorted list and N be the number of partitions generated from it. Plot a graph to show the probability values Prob(N=2,3,... etc.) for different values of n
